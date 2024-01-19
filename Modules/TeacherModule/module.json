@@ -1,0 +1,11 @@
+{
+    "name": "TeacherModule",
+    "alias": "teachermodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TeacherModule\\app\\Providers\\TeacherModuleServiceProvider"
+    ],
+    "files": []
+}

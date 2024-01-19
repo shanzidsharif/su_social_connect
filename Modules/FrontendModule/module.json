@@ -1,0 +1,11 @@
+{
+    "name": "FrontendModule",
+    "alias": "frontendmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FrontendModule\\app\\Providers\\FrontendModuleServiceProvider"
+    ],
+    "files": []
+}
